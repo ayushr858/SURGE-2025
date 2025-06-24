@@ -1,0 +1,7 @@
+method,dx,dt,error
+FDM,0.1,0.01,2.3e-3
+FDM,0.05,0.005,1.2e-3
+HOC-FDM,0.1,0.01,4.1e-5
+HOC-FDM,0.05,0.005,1.0e-5
+PINN,NA,NA,7.8e-4
+NN-surrogate,NA,NA,1.2e-3
