@@ -1,0 +1,19 @@
+name: tfbs-solvers
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9
+  - numpy
+  - scipy
+  - matplotlib
+  - jupyterlab
+  - pytest
+  - torch
+  - tensorflow
+  - sphinx
+  - mkdocs
+  - pip
+  - pip:
+      - black
+      - flake8
