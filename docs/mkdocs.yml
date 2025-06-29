@@ -1,9 +1,0 @@
-site_name: TFBS Solvers Documentation
-nav:
-  - Home: index.md
-  - API:
-      - FDM: src/fdm/index.md
-      - HOC-FDM: src/hoc_fdm/index.md
-      - PINN: src/pinn/index.md
-      - NN Surrogate: src/nn/index.md
-theme: readthedocs
